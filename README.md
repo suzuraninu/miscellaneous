@@ -13,3 +13,7 @@ OpenCV3.x
 
 論文: https://www.microsoft.com/en-us/research/wp-content/uploads/2014/09/ZitnickDollarECCV14edgeBoxes.pdf  
 参考にしたコード:https://github.com/pdollar/edges  
+
+## GF.py  
+フィボナッチ数列
+計算量が違う方法3つで求めたもの  
