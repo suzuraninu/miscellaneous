@@ -15,5 +15,5 @@ OpenCV3.x
 参考にしたコード:https://github.com/pdollar/edges  
 
 ## GF.py  
-フィボナッチ数列
+フィボナッチ数列  
 計算量が違う方法3つで求めたもの  
